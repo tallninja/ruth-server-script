@@ -1,0 +1,30 @@
+INFO:root:Server listening on port 5067
+DEBUG:root:Query - ruth
+, IP - ('127.0.0.1', 54848), Execution Time - 0.0004162788391113281s
+
+DEBUG:root:Query - ruth
+, IP - ('127.0.0.1', 33686), Execution Time - 0.0003986358642578125s
+
+INFO:root:Server listening on port 5067
+DEBUG:root:Query - ruth
+, IP - ('127.0.0.1', 44232), Execution Time - 0.0003457069396972656s
+
+INFO:root:Server listening on port 5067
+DEBUG:root:Query - ruth
+, IP - ('127.0.0.1', 46080), Execution Time - 0.0004918575286865234s
+
+DEBUG:root:Query - ruth
+, IP - ('127.0.0.1', 37846), Execution Time - 0.0003345012664794922s
+
+DEBUG:root:Query - ernest
+, IP - ('127.0.0.1', 43346), Execution Time - 0.000186920166015625s
+
+DEBUG:root:Query - ernest
+, IP - ('127.0.0.1', 46522), Execution Time - 0.0004475116729736328s
+
+DEBUG:root:Query - lee
+, IP - ('127.0.0.1', 51162), Execution Time - 0.00043082237243652344s
+
+DEBUG:root:Query - hello
+, IP - ('127.0.0.1', 41106), Execution Time - 0.0004379749298095703s
+
